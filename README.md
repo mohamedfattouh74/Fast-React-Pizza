@@ -1,5 +1,17 @@
 # Fast React Pizza
 
+A SPA application created using React Framework and Redux Toolkit that allows customers to order one pizza or more from the menu.
+
+
+## Tools Used
+
+- React
+- Redux ToolKit
+- Tailwind CSS
+- React Three Fiber
+- React Leaflet Library
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
